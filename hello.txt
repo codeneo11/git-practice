@@ -2,5 +2,6 @@ THIS IS NEW FILE
 this is practice file for git init 
 performing using git init 
 THIS IS HELLO FROM DEV
-
 This is written by dev2
+
+This change is made by developer 2
